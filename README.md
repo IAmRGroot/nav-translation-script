@@ -1,4 +1,4 @@
-# nav-translator
+# NAV translation script
 Powershell script used for the creation of [NAV translation files](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-work-with-translation-files). This enables you to keep track of all of the translations directly in the AL code.  
 
 ## Usage
